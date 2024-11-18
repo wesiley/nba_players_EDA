@@ -1,6 +1,6 @@
 # nba_players_EDA
 
-<img src="https://images.pexels.com/photos/6694543/pexels-photo-6694543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1](https://images.pexels.com/photos/41433/pexels-photo-41433.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="salary">
+<img src="https://images.pexels.com/photos/41433/pexels-photo-41433.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 
 ## Projeto da disciplina de Estatistica I - Ada Tech - Santander Coders_2024
 
