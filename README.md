@@ -10,7 +10,7 @@ Além dos números, como pontos, rebotes e assistências, podemos ver como os jo
 
 ## Contexto do projeto
 
-<img src="https://images.pexels.com/photos/16955708/pexels-photo-16955708/free-photo-of-linhas-filas-bola-esfera.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" align="right">
+<img src="https://images.pexels.com/photos/16955708/pexels-photo-16955708/free-photo-of-linhas-filas-bola-esfera.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" min-width="400px" max-width="400px" width="400px" align="right" alt="Bola">
 
 Como analista de dados de um time de basquete, nosso grupo foi incumbida de identificar um jogador promissor que possa ajudar a equipe a se destacar na próxima temporada. Embora ainda não saibamos para qual posição, focaremos em variáveis chave que melhor reflitam o desempenho geral de um jogador e que possam ser usadas independentemente da posição em quadra.
 
